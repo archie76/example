@@ -1,0 +1,2 @@
+# example
+Moje pierwsze repozytorium.
